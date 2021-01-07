@@ -19,16 +19,7 @@ public class wreew {
 
 	}
 
-	public static void d1() {
-		for (int i = 1; i <= 5; i++) {
-
-			for (int j = 1; j <= i; j++) {
-				System.out.print("*");
-
-			}
-			System.out.println("");
-		}
-	}
+Removed first block of code
 
 	public static void d2() {
 		for (int i = 1; i <= 5; i++) {
