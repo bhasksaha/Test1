@@ -24,12 +24,21 @@ public class wreew {
 
 			for (int j = 1; j <= i; j++) {
 				System.out.print("*");
+				
+				
+				
 
 			}
 			System.out.println("");
 		}
 	}
 
+	This is the newly added lines
+	
+	
+	
+	
+	
 	public static void d2() {
 		for (int i = 1; i <= 5; i++) {
 
