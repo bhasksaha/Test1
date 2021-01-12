@@ -1,0 +1,5 @@
+line 1 from master
+line 2 from master
+line 3 from master
+line 4 from master
+line 5 from master
